@@ -1,0 +1,3 @@
+# LiteFX Sample Application
+
+A sample application demonstrating how to use the LiteFX graphics engine in a separate project. This project resembles the basic rendering example from the engine sources with the key difference, that the [engine registry](https://github.com/crud89/LiteFX-Registry) is used to install all required dependencies. For a bare-bones project template check out [this repository](https://github.com/crud89/LiteFX). If you encounter any problems, please open a issue in the [main repository](https://github.com/crud89/LiteFX).

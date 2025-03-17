@@ -1,0 +1,14 @@
+{
+  "name": "litefx-sample",
+  "version": "1.0",
+  "supports": "windows & !arm",
+  "dependencies":
+  [
+    "cli11",
+    "glfw3",
+    {
+      "name": "litefx",
+      "features": [ "glm", "dx-math", "pix-support" ]
+    }
+  ]
+}
